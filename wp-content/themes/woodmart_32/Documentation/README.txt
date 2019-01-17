@@ -1,1 +1,0 @@
-Our documentation is online https://xtemos.com/documentation/woodmart/
