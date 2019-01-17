@@ -272,7 +272,7 @@ a.button{
 }
 .middle-header button[type="submit"]{
   padding: 10px 29px;
-  background: url(images/search.png) no-repeat scroll 20px;
+  background: url(https://bookinhat.github.io/BOOK-IN-HAT/wp-content/themes/advance-ecommerce-store/images/search.png) no-repeat scroll 20px;
   text-indent: -9999px;
   border: none;
   cursor: pointer;
@@ -1189,7 +1189,7 @@ iframe{
 	.toggle a{
 		width:100%;
 		color:#fff;
-		background:url('images/mobile_nav_right.png') no-repeat right center #000;
+		background:url('https://bookinhat.github.io/BOOK-IN-HAT/wp-content/themes/advance-ecommerce-store/images/mobile_nav_right.png') no-repeat right center #000;
 		padding:10px 10px;
 		font-size:16px;
     border-bottom: 1px solid;
