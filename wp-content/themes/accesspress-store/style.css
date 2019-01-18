@@ -1306,7 +1306,7 @@ HEADER TWO
 #main-slider .bx-controls .bx-controls-direction a {
     float: left;
     color: transparent;
-    background: url("images/slider-prev-next.png") no-repeat scroll 0 0;
+    background: url("https://bookinhat.github.io/BOOK-IN-HAT/wp-content/themes/accesspress-store/images/slider-prev-next.png") no-repeat scroll 0 0;
     display: block;
     height: 78px;
     width: 40px;
@@ -1904,7 +1904,7 @@ HEADER TWO
     position: relative;
 }
 .testimonial-thumb.active:after {
-    background: url("images/testimonial-arrow.png") no-repeat scroll center center #ffffff;
+    background: url("https://bookinhat.github.io/BOOK-IN-HAT/wp-content/themes/accesspress-store/images/testimonial-arrow.png") no-repeat scroll center center #ffffff;
     content: "";
     width: 14px;
     height: 6px;
@@ -2209,7 +2209,7 @@ HEADER TWO
     position: relative;
 }
 .tab-header li a.current:after {
-    background: url("images/tab-arrow.jpg") no-repeat scroll center center;
+    background: url("https://bookinhat.github.io/BOOK-IN-HAT/wp-content/themes/accesspress-store/images/tab-arrow.jpg") no-repeat scroll center center;
     position: absolute;
     left: 50%;
     margin-left: -3px;
@@ -3347,7 +3347,7 @@ Responsive grid for pages
     right: 37px;
     top: -65px;
     cursor: pointer;
-    background: url("images/mini-prev-arrow1.png") no-repeat scroll center center;
+    background: url("https://bookinhat.github.io/BOOK-IN-HAT/wp-content/themes/accesspress-store/images/mini-prev-arrow1.png") no-repeat scroll center center;
     display: inline-block !important;
     height: 22px;
     width: 22px;
@@ -3357,12 +3357,12 @@ Responsive grid for pages
 }
 .new-prod-slide .slick-prev:hover,
 .new-prod-slide .slick-prev.slick-disabled {
-    background: url("images/mini-prev-arrow.png") no-repeat scroll center center;
+    background: url("https://bookinhat.github.io/BOOK-IN-HAT/wp-content/themes/accesspress-store/images/mini-prev-arrow.png") no-repeat scroll center center;
     background-size: 100%;
 }
 .new-prod-slide .slick-next:hover,
 .new-prod-slide .slick-next.slick-disabled {
-    background: url("images/mini-next-arrow.png") no-repeat scroll center center;
+    background: url("https://bookinhat.github.io/BOOK-IN-HAT/wp-content/themes/accesspress-store/images/mini-next-arrow.png") no-repeat scroll center center;
     background-size: 100%;
 }
 .new-prod-slide .slick-next {
@@ -3370,7 +3370,7 @@ Responsive grid for pages
     right: 11px;
     top: -65px;
     cursor: pointer;
-    background: url("images/mini-next-arrow1.png") no-repeat scroll center center;
+    background: url("https://bookinhat.github.io/BOOK-IN-HAT/wp-content/themes/accesspress-store/images/mini-next-arrow1.png") no-repeat scroll center center;
     display: inline-block !important;
     height: 22px;
     width: 22px;
@@ -3419,7 +3419,7 @@ Responsive grid for pages
     padding: 0 20px;
 }
 .bx-slider .slick-prev {
-    background: url("images/prev-arrow.png") no-repeat scroll center center rgba(255, 255, 255, 0.8);
+    background: url("https://bookinhat.github.io/BOOK-IN-HAT/wp-content/themes/accesspress-store/images/prev-arrow.png") no-repeat scroll center center rgba(255, 255, 255, 0.8);
     bottom: 60px;
     cursor: pointer;
     display: block;
@@ -3431,7 +3431,7 @@ Responsive grid for pages
     background-size: 50%;
 }
 .bx-slider .slick-next {
-    background: url("images/next-arrow.png") no-repeat scroll center center;
+    background: url("https://bookinhat.github.io/BOOK-IN-HAT/wp-content/themes/accesspress-store/images/next-arrow.png") no-repeat scroll center center;
     top: 50%;
     margin-top: -83px;
     cursor: pointer;
@@ -3444,7 +3444,7 @@ Responsive grid for pages
     background-size: 50%;
 }
 .bx-slider .slick-next:hover {
-    background: url("images/next-arrow1.png") no-repeat scroll center center;
+    background: url("https://bookinhat.github.io/BOOK-IN-HAT/wp-content/themes/accesspress-store/images/next-arrow1.png") no-repeat scroll center center;
     background-size: 50%;
 }
 .woocommerce .cart .button,
@@ -3463,7 +3463,7 @@ Responsive grid for pages
     margin: 0;
     padding: 10px 0px;
     line-height: 16px;
-    background: url("images/signup.png") no-repeat right;
+    background: url("https://bookinhat.github.io/BOOK-IN-HAT/wp-content/themes/accesspress-store/images/signup.png") no-repeat right;
     border-bottom: 3px solid #ef9999;
     position: relative;
     margin-bottom: 20px;
@@ -3640,7 +3640,7 @@ Responsive grid for pages
     z-index: 1;
 }
 .caption-read-more1::before {
-    content: url(images/arrow.png);
+    content: url(https://bookinhat.github.io/BOOK-IN-HAT/wp-content/themes/accesspress-store/images/arrow.png);
     position: absolute;
     right: -55px;
     background: red;
@@ -3791,7 +3791,7 @@ Responsive grid for pages
     opacity: 0;
 }
 .woocommerce ul.products li.product a.item-wishlist:after {
-    content: url(images/wishlist.png);
+    content: url(https://bookinhat.github.io/BOOK-IN-HAT/wp-content/themes/accesspress-store/images/wishlist.png);
     height: 13px;
     width: 16px;
     left: 10px;
@@ -4054,7 +4054,7 @@ a.compare.button {
 .widget_accesspress_store_product2 .feature-cat-product .slick-prev {
     position: static;
     cursor: pointer;
-    background: url("images/mini-prev-arrow.png") no-repeat scroll center center;
+    background: url("https://bookinhat.github.io/BOOK-IN-HAT/wp-content/themes/accesspress-store/images/mini-prev-arrow.png") no-repeat scroll center center;
     display: inline-block !important;
     height: 22px;
     width: 22px;
@@ -4066,7 +4066,7 @@ a.compare.button {
 .widget_accesspress_store_product2 .feature-cat-product .slick-next {
     position: static;
     cursor: pointer;
-    background: url("images/mini-next-arrow.png") no-repeat scroll center center;
+    background: url("https://bookinhat.github.io/BOOK-IN-HAT/wp-content/themes/accesspress-store/images/mini-next-arrow.png") no-repeat scroll center center;
     display: inline-block !important;
     height: 22px;
     width: 22px;
@@ -4091,12 +4091,12 @@ a.compare.button {
 }
 .widget_accesspress_store_product2 .feature-cat-product .slick-prev:hover,
 .widget_accesspress_store_product2 .feature-cat-product .slick-prev.slick-disabled {
-    background: url("images/mini-prev-arrow1.png") no-repeat scroll center center;
+    background: url("https://bookinhat.github.io/BOOK-IN-HAT/wp-content/themes/accesspress-store/images/mini-prev-arrow1.png") no-repeat scroll center center;
     background-size: 100% 100%;
 }
 .widget_accesspress_store_product2 .feature-cat-product .slick-next:hover,
 .widget_accesspress_store_product2 .feature-cat-product .slick-next.slick-disabled {
-    background: url("images/mini-next-arrow1.png") no-repeat scroll center center;
+    background: url("https://bookinhat.github.io/BOOK-IN-HAT/wp-content/themes/accesspress-store/images/mini-next-arrow1.png") no-repeat scroll center center;
     background-size: 100% 100%;
 }
 /*style for product right align nav*/
@@ -4478,7 +4478,7 @@ a.quick-wishlist {
     background: #000000;
 }
 .bx-slider .slick-prev {
-    background: url("images/prev-arrow.png") no-repeat scroll center center;
+    background: url("https://bookinhat.github.io/BOOK-IN-HAT/wp-content/themes/accesspress-store/images/prev-arrow.png") no-repeat scroll center center;
     top: 50%;
     margin-top: -83px;
     cursor: pointer;
@@ -4491,15 +4491,15 @@ a.quick-wishlist {
     background-size: 50%;
 }
 .bx-slider .slick-prev:hover {
-    background: url("images/prev-arrow1.png") no-repeat scroll center center;
+    background: url("https://bookinhat.github.io/BOOK-IN-HAT/wp-content/themes/accesspress-store/images/prev-arrow1.png") no-repeat scroll center center;
     background-size: 50%;
 }
 .bx-slider .slick-prev.slick-disabled {
-    background: url("images/prev-arrow1.png") no-repeat scroll center center;
+    background: url("https://bookinhat.github.io/BOOK-IN-HAT/wp-content/themes/accesspress-store/images/prev-arrow1.png") no-repeat scroll center center;
     background-size: 50%;
 }
 .bx-slider .slick-next.slick-disabled {
-    background: url("images/next-arrow1.png") no-repeat scroll center center;
+    background: url("https://bookinhat.github.io/BOOK-IN-HAT/wp-content/themes/accesspress-store/images/next-arrow1.png") no-repeat scroll center center;
     background-size: 50%;
 }
 .slider-caption {
@@ -4931,7 +4931,7 @@ span.onsale:after,
     padding-left: 20px;
     background: transparent;
     border-radius: 0px;
-    background: url("images/tab1.png") no-repeat right;
+    background: url("https://bookinhat.github.io/BOOK-IN-HAT/wp-content/themes/accesspress-store/images/tab1.png") no-repeat right;
     overflow: hidden;
 }
 .woocommerce.single.single-product .woocommerce-tabs ul.tabs li a {
@@ -4946,7 +4946,7 @@ span.onsale:after,
 .woocommerce.single.single-product .woocommerce-tabs ul.tabs li.active {
     border: none;
     border-bottom: 1px solid #e24545;
-    background: url(images/tab.png) no-repeat right;
+    background: url(https://bookinhat.github.io/BOOK-IN-HAT/wp-content/themes/accesspress-store/images/tab.png) no-repeat right;
     position: relative;
 }
 .woocommerce.single.single-product .woocommerce-tabs ul.tabs li.active:after {
@@ -5072,7 +5072,7 @@ span.onsale:after,
 #ap-cta-video {
     background: #3d3d3d;
     margin: 40px 0px;
-    background: url(images/youtube.jpg) no-repeat;
+    background: url(https://bookinhat.github.io/BOOK-IN-HAT/wp-content/themes/accesspress-store/images/youtube.jpg) no-repeat;
     background-size: cover;
     background-attachment: fixed;
     position: relative;
@@ -5085,7 +5085,7 @@ span.onsale:after,
     padding:0 20px; 
 }
 #ap-cta-video .widget_accesspress_cta_simple {
-    background: url(images/you.png) no-repeat right;
+    background: url(https://bookinhat.github.io/BOOK-IN-HAT/wp-content/themes/accesspress-store/images/you.png) no-repeat right;
     background-size: 70% 100%;
     padding: 0px;
     border-bottom: 4px solid #444444;
@@ -5178,7 +5178,7 @@ span.onsale:after,
     border: 1px solid rgba(255, 255, 255, 0.2);
 }
 #ap-cta-video .cta-video .cta-wrap-right .bttn.cta-video-btn::after {
-    content: url(images/video.png);
+    content: url(https://bookinhat.github.io/BOOK-IN-HAT/wp-content/themes/accesspress-store/images/video.png);
     margin-left: 15px;
 }
 .promo-wrap1 .widget_accesspress_storemo {
@@ -5266,7 +5266,7 @@ span.onsale:after,
     position: absolute;
     width: 90px;
     height: 90px;
-    background: url("images/free-uk.png") no-repeat scroll center center;
+    background: url("https://bookinhat.github.io/BOOK-IN-HAT/wp-content/themes/accesspress-store/images/free-uk.png") no-repeat scroll center center;
     text-align: center;
 }
 .widget.widget_accesspress_store_icon_text .ap-icon-text-content-wrap {
@@ -5423,7 +5423,7 @@ span.onsale:after,
 }
 .bx-prev {
     cursor: pointer;
-    background: url("images/t-prev-arrow.png") no-repeat scroll center center !important;
+    background: url("https://bookinhat.github.io/BOOK-IN-HAT/wp-content/themes/accesspress-store/images/t-prev-arrow.png") no-repeat scroll center center !important;
     display: block;
     height: 32px !important;
     width: 32px !important;
@@ -5431,14 +5431,14 @@ span.onsale:after,
     z-index: 1;
 }
 .bx-prev:hover {
-    background: url("images/t-prev-arrow1.png") no-repeat scroll center center !important;
+    background: url("https://bookinhat.github.io/BOOK-IN-HAT/wp-content/themes/accesspress-store/images/t-prev-arrow1.png") no-repeat scroll center center !important;
 }
 .bx-next:hover {
-    background: url("images/t-next-arrow1.png") no-repeat scroll center center !important;
+    background: url("https://bookinhat.github.io/BOOK-IN-HAT/wp-content/themes/accesspress-store/images/t-next-arrow1.png") no-repeat scroll center center !important;
 }
 .bx-next {
     cursor: pointer;
-    background: url("images/t-next-arrow.png") no-repeat scroll center center !important;
+    background: url("https://bookinhat.github.io/BOOK-IN-HAT/wp-content/themes/accesspress-store/images/t-next-arrow.png") no-repeat scroll center center !important;
     display: block;
     height: 32px !important;
     width: 32px !important;
@@ -5454,7 +5454,7 @@ span.onsale:after,
     padding: 0px;
     margin: 0px;
     list-style-position: inside;
-    list-style-image: url('images/li.png');
+    list-style-image: url('https://bookinhat.github.io/BOOK-IN-HAT/wp-content/themes/accesspress-store/images/li.png');
 }
 .top-footer-block .widget_pages a {
     font-size: 15px;
@@ -5473,7 +5473,7 @@ span.onsale:after,
 }
 #content .page_header_wrap,
 .woocommerce .entry-header {
-    background: url(images/about-us-bg.jpg) no-repeat center;
+    background: url(https://bookinhat.github.io/BOOK-IN-HAT/wp-content/themes/accesspress-store/images/about-us-bg.jpg) no-repeat center;
     background-size: cover;
     padding: 42px 0px;
     text-align: center;
@@ -5560,7 +5560,7 @@ span.onsale:after,
     padding: 0;
     display: block;
     line-height: 35px;
-    background: url("images/signup.png") no-repeat right;
+    background: url("https://bookinhat.github.io/BOOK-IN-HAT/wp-content/themes/accesspress-store/images/signup.png") no-repeat right;
     border-bottom: 3px solid #ef9999;
     position: relative;
     margin-bottom: 20px;
@@ -5576,7 +5576,7 @@ span.onsale:after,
     margin-bottom: 20px;
 }
 .comments-area .comment-respond h3.comment-reply-title {
-    background: url("images/rply.png") no-repeat right !important;
+    background: url("https://bookinhat.github.io/BOOK-IN-HAT/wp-content/themes/accesspress-store/images/rply.png") no-repeat right !important;
 }
 #secondary.sidebar ul {
     margin: 0px;  
@@ -5675,7 +5675,7 @@ li.cat-parent {
     width: 29px;
     height: 28px;
     background-color: transparent !important;
-    background: url("images/range-left.png") no-repeat scroll center center !important;
+    background: url("https://bookinhat.github.io/BOOK-IN-HAT/wp-content/themes/accesspress-store/images/range-left.png") no-repeat scroll center center !important;
     border-radius: 0;
     cursor: ew-resize;
     outline: 0;
@@ -5683,7 +5683,7 @@ li.cat-parent {
     left: -.5em;
 }
 .woocommerce .widget_price_filter .ui-slider span.ui-slider-handle:last-child {
-    background: url("images/range-right.png") no-repeat scroll center center !important;
+    background: url("https://bookinhat.github.io/BOOK-IN-HAT/wp-content/themes/accesspress-store/images/range-right.png") no-repeat scroll center center !important;
 }
 .woocommerce.widget_price_filter .price_slider_wrapper .price_slider_amount button {
     float: right;
@@ -5776,7 +5776,7 @@ li.cat-parent {
     -webkit-appearance: none;
     -moz-appearance: none;
     appearance: none;
-    background: url(images/drop.jpg) 100% 15% no-repeat #efefef;
+    background: url(https://bookinhat.github.io/BOOK-IN-HAT/wp-content/themes/accesspress-store/images/drop.jpg) 100% 15% no-repeat #efefef;
     border: none;
     color: #989898;
     font-weight: 400;
@@ -5833,23 +5833,23 @@ ul.products.list li.product:last-child {
     height: 31px;
 }
 .gridlist-toggle a#grid {
-    background: url("images/active.png") no-repeat scroll center center #efefef !important;
+    background: url("https://bookinhat.github.io/BOOK-IN-HAT/wp-content/themes/accesspress-store/images/active.png") no-repeat scroll center center #efefef !important;
     margin: 0px 5px;
 }
 .gridlist-toggle a#grid.active,
 .gridlist-toggle a#grid:hover {
-    background-image: url("images/active.png");
+    background-image: url("https://bookinhat.github.io/BOOK-IN-HAT/wp-content/themes/accesspress-store/images/active.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-color: #e24545;
     margin: 0px 5px;
 }
 .gridlist-toggle a#list {
-    background: url("images/inactive.png") no-repeat scroll center center #efefef !important;
+    background: url("https://bookinhat.github.io/BOOK-IN-HAT/wp-content/themes/accesspress-store/images/inactive.png") no-repeat scroll center center #efefef !important;
 }
 .gridlist-toggle a#list.active,
 .gridlist-toggle a#list:hover {
-    background: url("images/inactive.png") no-repeat scroll center center #e24545 !important;
+    background: url("https://bookinhat.github.io/BOOK-IN-HAT/wp-content/themes/accesspress-store/images/inactive.png") no-repeat scroll center center #e24545 !important;
 }
 .gridlist-toggle a span {
     display: none;
@@ -6073,7 +6073,7 @@ ul.products.list li.product:last-child {
     margin: 0;
     padding: 0;
     line-height: 35px;
-    background: url("images/signup.png") no-repeat right;
+    background: url("https://bookinhat.github.io/BOOK-IN-HAT/wp-content/themes/accesspress-store/images/signup.png") no-repeat right;
     border-bottom: 3px solid #ef9999;
     position: relative;
     margin-bottom: 20px;
@@ -6368,13 +6368,13 @@ div.pp_woocommerce .pp_arrow_previous {
 }
 .content-inner .slick-prev.slick-disabled,
 .content-inner .slick-prev:hover {
-    background: url("images/mini-prev-arrow1.png") no-repeat scroll center center;
+    background: url("https://bookinhat.github.io/BOOK-IN-HAT/wp-content/themes/accesspress-store/images/mini-prev-arrow1.png") no-repeat scroll center center;
     background-size: 100% 100%;
 }
 .content-inner .slick-prev {
     position: static;
     cursor: pointer;
-    background: url("images/mini-prev-arrow.png") no-repeat scroll center center;
+    background: url("https://bookinhat.github.io/BOOK-IN-HAT/wp-content/themes/accesspress-store/images/mini-prev-arrow.png") no-repeat scroll center center;
     display: inline-block !important;
     height: 22px !important;
     width: 44px !important;
@@ -6387,13 +6387,13 @@ div.pp_woocommerce .pp_arrow_previous {
 }
 .content-inner .slick-next.slick-disabled,
 .content-inner .slick-next:hover {
-    background: url("images/mini-next-arrow1.png") no-repeat scroll center center;
+    background: url("https://bookinhat.github.io/BOOK-IN-HAT/wp-content/themes/accesspress-store/images/mini-next-arrow1.png") no-repeat scroll center center;
     background-size: 100% 100%;
 }
 .content-inner .slick-next {
     position: static;
     cursor: pointer;
-    background: url("images/mini-next-arrow.png") no-repeat scroll center center;
+    background: url("https://bookinhat.github.io/BOOK-IN-HAT/wp-content/themes/accesspress-store/images/mini-next-arrow.png") no-repeat scroll center center;
     display: inline-block !important;
     height: 22px !important;
     width: 44px !important;
