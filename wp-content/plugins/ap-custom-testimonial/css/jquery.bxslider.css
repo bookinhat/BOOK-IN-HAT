@@ -53,7 +53,7 @@
 
 .bx-wrapper .bx-loading {
     min-height: 50px;
-    background: url(bx_loader.gif) center center no-repeat;
+    background: url(https://bookinhat.github.io/BOOK-IN-HAT/wp-content/plugins/ap-custom-testimonial/css/bx_loader.gif) center center no-repeat;
     height: 100%;
     width: 100%;
     position: absolute;
@@ -141,7 +141,7 @@
     width: 10px;
     height: 11px;
     outline: 0;
-    background: url(images/controls.png) -86px -11px no-repeat;
+    background: url(https://bookinhat.github.io/BOOK-IN-HAT/wp-content/plugins/ap-custom-testimonial/css/images/controls.png) -86px -11px no-repeat;
     margin: 0 3px;
 }
 
@@ -156,7 +156,7 @@
     width: 9px;
     height: 11px;
     outline: 0;
-    background: url(images/controls.png) -86px -44px no-repeat;
+    background: url(https://bookinhat.github.io/BOOK-IN-HAT/wp-content/plugins/ap-custom-testimonial/css/images/controls.png) -86px -44px no-repeat;
     margin: 0 3px;
 }
 
