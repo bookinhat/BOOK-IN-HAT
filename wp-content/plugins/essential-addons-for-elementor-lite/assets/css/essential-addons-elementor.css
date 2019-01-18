@@ -3124,7 +3124,7 @@ body:not(.x-ethos):not(.x-integrity):not(.x-renew):not(.x-icon) .eael-product-ca
 }
 
 .eael-call-to-action.bg-img {
-  background-image: url("../img/bg.jpg");
+  background-image: url("https://bookinhat.github.io/BOOK-IN-HAT/wp-content/plugins/essential-addons-for-elementor-lite/assets/img/bg.jpg");
   background-repeat: no-repeat;
   background-position: center;
   -webkit-background-size: cover;
