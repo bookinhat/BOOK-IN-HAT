@@ -308,7 +308,31 @@ var frontend_js_obj = {"default_error_message":"This field is required","ajax_ur
                             .wp-megamenu-main-wrapper .wpmm-mega-menu-icon{
                 font-size: 13px;
                 }
-                </style><style>html body{background-color:transparent !important;background:url(https://bookinhat.github.io/BOOK-IN-HAT/wp-content/themes/accesspress-store/inc/images/patterns/pattern4.png)}#masthead{margin-bottom:40px}</style>		<style type="text/css">
+                </style>		<script type="text/javascript">			
+			jQuery(function($){
+				if($('body').hasClass('rtl')){
+				    var rtlClass = true;
+				} else {
+				   var rtlClass = false;
+				}
+				$('#main-slider .bx-slider').slick({
+					dots: true,
+					arrows: true,
+					speed: 5000,
+					fade: false,
+					cssEase: 'linear',
+					autoplaySpeed:5000,
+					autoplay:true,
+					adaptiveHeight:true,
+					infinite:true,
+	                draggable: true,
+	                rtl: rtlClass,
+				});
+
+				 				
+			});
+		</script>
+	<style>html body{background-color:transparent !important;background:url(https://bookinhat.github.io/BOOK-IN-HAT/wp-content/themes/accesspress-store/inc/images/patterns/pattern4.png)}</style>		<style type="text/css">
 					</style>
 		<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
 	<link rel="icon" href="https://bookinhat.github.io/BOOK-IN-HAT/wp-content/uploads/2019/01/cropped-079fbf6e-5c8a-4f34-8e62-88ed3c317cb2-2-32x32.png" sizes="32x32" />
@@ -316,7 +340,7 @@ var frontend_js_obj = {"default_error_message":"This field is required","ajax_ur
 <link rel="apple-touch-icon-precomposed" href="https://bookinhat.github.io/BOOK-IN-HAT/wp-content/uploads/2019/01/cropped-079fbf6e-5c8a-4f34-8e62-88ed3c317cb2-2-180x180.png" />
 <meta name="msapplication-TileImage" content="https://bookinhat.github.io/BOOK-IN-HAT/wp-content/uploads/2019/01/cropped-079fbf6e-5c8a-4f34-8e62-88ed3c317cb2-2-270x270.png" />
 </head>
-<body class="home blog wp-embed-responsive woocommerce-no-js apwidget_title">
+<body class="home blog wp-embed-responsive woocommerce-no-js apwidget_title fullwidth">
 <div id="page" class="hfeed site">
 
 <header id="mastheads" class="site-header headertwo" role="banner">
