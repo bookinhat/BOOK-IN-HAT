@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>MEDICAL BOOKS &#8211; BOOK-IN-HAT</title>
+	<atom:link href="https://bookinhat.github.io/BOOK-IN-HAT/product-category/medical-books/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bookinhat.github.io/BOOK-IN-HAT</link>
+	<description>TAKE PRODUCT IN ITS REAL PRICE</description>
+	<lastBuildDate>Sat, 19 Jan 2019 04:15:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.3</generator>
+
+<image>
+	<url>https://bookinhat.github.io/BOOK-IN-HAT/wp-content/uploads/2019/01/cropped-079fbf6e-5c8a-4f34-8e62-88ed3c317cb2-2-32x32.png</url>
+	<title>MEDICAL BOOKS &#8211; BOOK-IN-HAT</title>
+	<link>https://bookinhat.github.io/BOOK-IN-HAT</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>OBJECTIVE PHYSICS</title>
+		<link>https://bookinhat.github.io/BOOK-IN-HAT/product/objective-physics/</link>
+		<comments>https://bookinhat.github.io/BOOK-IN-HAT/product/objective-physics/#respond</comments>
+		<pubDate>Fri, 18 Jan 2019 16:21:33 +0000</pubDate>
+		<dc:creator><![CDATA[BOOK-IN-HAT]]></dc:creator>
+		
+		<guid isPermaLink="false">https://bookinhat.github.io/BOOK-IN-HAT/?post_type=product&#038;p=750</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>https://bookinhat.github.io/BOOK-IN-HAT/product/objective-physics/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>ARIHANT OBJECTIVE BIOLOGY</title>
+		<link>https://bookinhat.github.io/BOOK-IN-HAT/product/arihant-objective-biology/</link>
+		<comments>https://bookinhat.github.io/BOOK-IN-HAT/product/arihant-objective-biology/#respond</comments>
+		<pubDate>Fri, 18 Jan 2019 16:17:05 +0000</pubDate>
+		<dc:creator><![CDATA[BOOK-IN-HAT]]></dc:creator>
+		
+		<guid isPermaLink="false">https://bookinhat.github.io/BOOK-IN-HAT/?post_type=product&#038;p=746</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>https://bookinhat.github.io/BOOK-IN-HAT/product/arihant-objective-biology/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
